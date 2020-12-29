@@ -2,7 +2,7 @@
 
 This is a simple example of a Model View Controller (MVC) Architecture, which has the goal of completely separating the Calculations and Interface from each other.
 
-<img src="resources/class-diagram.png" width="500">
+<img src="resources/class-diagram.png" width="700">
 
 * Model: responsible for handling the data and calculations
 
@@ -12,9 +12,9 @@ This is a simple example of a Model View Controller (MVC) Architecture, which ha
 
 To exemplify this architecture, a simple compound interest calculator application is created in this project:
 
-<img src="resources/window-1.png" width="300">
+<img src="resources/window-1.PNG" width="300">
 
-<img src="resources/window-2.png" width="200">
+<img src="resources/window-2.PNG" width="200">
 
 ## Deploying
 
