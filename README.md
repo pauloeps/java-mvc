@@ -12,9 +12,9 @@ This is a simple example of a Model View Controller (MVC) Architecture, which ha
 
 To exemplify this architecture, a simple compound interest calculator application is created in this project:
 
-<img src="resources/window-1.PNG" width="300">
+<img src="resources/window-1.PNG" width="400">
 
-<img src="resources/window-2.PNG" width="200">
+<img src="resources/window-2.PNG" width="320">
 
 ## Deploying
 
