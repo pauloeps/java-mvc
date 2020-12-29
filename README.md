@@ -18,7 +18,7 @@ To exemplify this architecture, a simple compound interest calculator applicatio
 
 ## Deploying
 
-Make sure to have Java JDK installed. The run the following commands:
+Make Java JDK is installed. Run the following commands:
 
 `javac App.java`
 
